@@ -1,0 +1,9 @@
+.idea
+*.test
+*.DS_Store
+vendor/vendor.json
+*.swp
+*.swo
+.vscode/
+app
+family_finance
